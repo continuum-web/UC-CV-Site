@@ -6,7 +6,8 @@
         {
             "label": "Run Server",
             "type": "shell",
-            "command": "python3 -m http.server"
+            "command": "python3 -m http.server",
+            "problemMatcher": []
         }
     ]
 }
